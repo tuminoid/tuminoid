@@ -1,3 +1,13 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=tuminoid&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+# Hi, I'm Tuomo Tanskanen 👋
 
-[![committers.top badge](https://user-badge.committers.top/finland_public/tuminoid.svg)](https://user-badge.committers.top/finland_public/tuminoid)
+Maintainer & Security Lead of [Metal3.io](https://github.com/metal3-io) at [Ericsson](https://github.com/Ericsson).
+
+## Work
+
+- Bare metal provisioning for Kubernetes
+- Open Source Security in the Cloud-Native ecosystem
+
+## Life
+
+- [Sports Photography](https://urheilu.pics/)
+- [Disc Golfer](https://www.pdga.com/player/44707)
