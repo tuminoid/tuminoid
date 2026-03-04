@@ -1,13 +1,19 @@
 # Hi, I'm Tuomo Tanskanen 👋
 
-Maintainer & Security Lead of [Metal3.io](https://github.com/metal3-io) at [Ericsson](https://github.com/Ericsson).
+Maintainer & Security Lead of [Metal3.io](https://github.com/metal3-io)
+(bare metal provisioning for Kubernetes) at
+[Ericsson Open Source](https://est.tech/). I do Open Source Security in the
+Cloud Native ecosystem, trying to make a world slightly better one commit
+at a time.
 
-## Work
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuminoid&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuminoid&theme=tokyonight)
 
-- Bare metal provisioning for Kubernetes
-- Open Source Security in the Cloud-Native ecosystem
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuminoid&theme=tokyonight&utcOffset=+2)
+-->
 
-## Life
+## Non-code stuff
 
-- [Sports Photography](https://urheilu.pics/)
-- [Disc Golfer](https://www.pdga.com/player/44707)
+Family, [Sports Photography](https://urheilu.pics/) and
+[Disc Golf](https://www.pdga.com/player/44707)
